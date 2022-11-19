@@ -55,7 +55,7 @@
 
 ### 対象アセット
 
-[`server-icon.png`](./server-icon.png)
+* [`server-icon.png`](./server-icon.png)
 
 ### 利用条件
 
