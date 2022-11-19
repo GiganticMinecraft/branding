@@ -49,13 +49,13 @@
 
 ## サーバーアイコン
 
- ![`server-icon.png`](./server-icon.png)
+![`server-icon.png`](./server-icon.png)
 
 作者：天城さん（[@__amaki](https://twitter.com/__amaki)）
 
 ### 対象アセット
 
- [`server-icon.png`](./server-icon.png)
+[`server-icon.png`](./server-icon.png)
 
 ### 利用条件
 
