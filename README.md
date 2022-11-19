@@ -70,3 +70,24 @@
 個人のユーザーが「ギガンティック☆整地鯖」のデバッグ用サーバーなどをテストする際に、アイコンとして利用して頂くことを目的としています。
 サーバーアイコン以外の用途や、一般向け又は公開サーバー等のアイコンとしてはご利用頂けません。
 
+---
+
+## サーバーロゴ
+
+![server-logo-white.png](./server-logo-white.png)
+
+![server-logo-black.png](./server-logo-black.png)
+
+作者：ゆうもさん（[@yuumooo0811](https://twitter.com/@yuumooo0811)）
+
+### 対象アセット
+
+* [server-logo-white.png](./server-logo-white.png)
+* [server-logo-black.png](./server-logo-black.png)
+
+### 利用条件
+
+利用には、以下の条件を満たす必要があります。
+
+* 本サーバーの活性化を趣旨とした宣伝目的であること
+* 使用した制作物もしくはホームページ内に、[本サーバーの公式ホームページ](https://www.seichi.network/gigantic)へのリンクをハッキリと明示するなど、このロゴが本サーバーに関連するものだと判別できる状態にすること
