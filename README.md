@@ -74,16 +74,16 @@
 
 ## サーバーロゴ
 
-![server-logo-white.png](./server-logo-white.png)
+![server-logo-light.png](./server-logo-light.png)
 
-![server-logo-black.png](./server-logo-black.png)
+![server-logo-dark.png](./server-logo-dark.png)
 
 作者：ゆうもさん（[@yuumooo0811](https://twitter.com/@yuumooo0811)）
 
 ### 対象アセット
 
-* [server-logo-white.png](./server-logo-white.png)
-* [server-logo-black.png](./server-logo-black.png)
+* [server-logo-light.png](./server-logo-light.png)
+* [server-logo-dark.png](./server-logo-dark.png)
 
 ### 利用条件
 
