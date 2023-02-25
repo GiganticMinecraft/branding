@@ -82,8 +82,8 @@
 
 ### 対象アセット
 
-* [server-logo-light.png](./server-logo-light.png)
-* [server-logo-dark.png](./server-logo-dark.png)
+* [`server-logo-light.png`](./server-logo-light.png)
+* [`server-logo-dark.png`](./server-logo-dark.png)
 
 ### 利用条件
 
